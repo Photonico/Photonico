@@ -1,8 +1,8 @@
-### Hi there 👋
+#### Hi there 🌟
 
 I'm currently pursuing my PhD in Computational Physics at the University of Sydney (USYD). Additionally, as an enthusiastic Linux user, I have a particular affinity for ArchLinux and KDE Plasma.
 
-[My Homepage](https://github.com/Photonico/About)
+* [My Homepage](https://github.com/Photonico/About)
 
 #### Digital Design
 
