@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+I'm currently pursuing my PhD in Computational Physics at the University of Sydney (USYD). Additionally, as an enthusiastic Linux user, I have a particular affinity for ArchLinux and KDE Plasma.
+
+[My Homepage](https://github.com/Photonico/About)
+
+#### Digital Design
+
+* [Photonica](https://github.com/Photonico/Photonica): A free collection of VSCode themes, featuring both light and dark variations for your preference
+* [Photonico Code](https://github.com/Photonico/Photonico_Code): A free monospace font with a serif design, ideal for coding purposes
+* [My Templates](https://github.com/Photonico/Templates): My templates for CV and presentation
+
 <!--
 **Photonico/Photonico** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
