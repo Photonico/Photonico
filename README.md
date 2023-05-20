@@ -1,26 +1,17 @@
-#### Hi there 🌟
+### Hi there 🌟
 
-I'm currently pursuing my PhD in Computational Physics at the University of Sydney (USYD). Additionally, as an enthusiastic Linux user, I have a particular affinity for ArchLinux and KDE Plasma.
+I'm currently pursuing my PhD in Computational Physics at the University of Sydney (USYD). In addition to my academic pursuits, I'm a fervent user of Linux, particularly fond of ArchLinux and KDE Plasma. Apart from technology, I also harbor a passion for photography. I share my photographic works on Flickr.
 
-* [My Homepage](https://github.com/Photonico/About)
+### Opensource projects and Lecture notes
+
+#### Physics Lectures
+
+* [Computational Physics Topics](https://github.com/Photonico/Computational_Physics_Topics)
+* [Statistical Physics](https://github.com/Photonico/Statistical_Physics)
+* [Handwriting Lecture Notes](https://github.com/Photonico/Handwritten_Lectures)
 
 #### Digital Design
 
 * [Photonica](https://github.com/Photonico/Photonica): A free collection of VSCode themes, featuring both light and dark variations for your preference
 * [Photonico Code](https://github.com/Photonico/Photonico_Code): A free monospace font with a serif design, ideal for coding purposes
 * [My Templates](https://github.com/Photonico/Templates): My templates for CV and presentation
-
-<!--
-**Photonico/Photonico** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
