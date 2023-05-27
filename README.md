@@ -2,7 +2,7 @@
 
 I'm currently pursuing my PhD in Computational Physics at the University of Sydney (USYD). In addition to my academic pursuits, I'm a fervent user of Linux, particularly fond of ArchLinux and KDE Plasma. Apart from technology, I also harbor a passion for photography. My photographic works are usually publicized on Flickr.
 
-### Opensource projects and Lecture notes
+### Selected opensource projects and Lecture notes
 
 #### Physics Lectures
 
