@@ -7,8 +7,8 @@ I'm currently pursuing my PhD in Computational Physics at the University of Sydn
 #### Physics Lectures
 
 * 🔮 [Computational Physics Topics](https://github.com/Photonico/Computational_Physics_Topics)
-* ☀️ [Statistical Physics](https://github.com/Photonico/Statistical_Physics)
-* 🪻 [Handwriting Lecture Notes](https://github.com/Photonico/Handwritten_Lectures)
+* ❄️ [Statistical Physics](https://github.com/Photonico/Statistical_Physics)
+* 🍁 [Handwriting Lecture Notes](https://github.com/Photonico/Handwritten_Lectures)
 
 #### Digital Designs
 
