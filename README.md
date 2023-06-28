@@ -15,5 +15,3 @@ I'm currently pursuing my PhD in Computational Physics at the University of Sydn
 * 🍒 [Photonico Code](https://github.com/Photonico/Photonico_Code): A free monospace font with a serif design, ideal for coding purposes.
 * 🍍 [Photonica](https://marketplace.visualstudio.com/items?itemName=ConAntares.Photonica): A free collection of VSCode themes, featuring both light and dark variations for your preference.
 * 🫐 [Templates](https://github.com/Photonico/Templates): The customized templates for CV and presentation.
-
-( ゜- ゜)つロ
