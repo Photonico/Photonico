@@ -1,6 +1,6 @@
 ### 🌟 Hi there ~
 
-I'm currently pursuing my PhD in Photonics and Computational Physics at the University of Sydney (USYD). In addition to my academic pursuits, I'm a fervent user of Linux, particularly fond of ArchLinux and KDE Plasma. Apart from science and technology, I also harbor a passion for photography. My photographic works are usually publicized on [Flickr](https://www.flickr.com/photos/182418029@N02/). My hobbies are diverse, spanning from basketball, weightlifting, music, and  to an appreciation for Western culture. Follow me on Instagram to explore me more. :)
+I'm currently pursuing my PhD in Computational Physics at the University of Sydney (USYD). In addition to my academic pursuits, I'm a fervent user of Linux, particularly fond of ArchLinux and KDE Plasma. Apart from science and technology, I also harbor a passion for photography. My photographic works are usually publicized on [Flickr](https://www.flickr.com/photos/182418029@N02/). My hobbies are diverse, spanning from basketball, weightlifting, music, and  to an appreciation for Western culture. Follow me on Instagram to explore me more. :)
 
 ### Selected opensource projects
 
