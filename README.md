@@ -6,7 +6,7 @@
 * My hobbies are diverse, spanning from basketball, weightlifting, music, and an appreciation for philosophy and culture.
 * Follow me on Instagram to explore me more. :)
 
-### Selected opensource projects
+### Selected open-source projects
 
 #### Physics Lectures
 
